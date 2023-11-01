@@ -1,21 +1,12 @@
 ---
-permalink: /
-title: " "
-excerpt: "Research"
+layout: archive
+title: "Research"
+permalink: /research/
 author_profile: true
-redirect_from: 
-  - /research/
-  - /research.html
+redirect_from:
+  - /resume
 ---
 
+{% include base_path %}
 
-
-## Work in progress
-
-
-
-
- 
-
-
-
+You can download my CV [here](http://fraferla.github.io/files/CV_Ferlaino.pdf)
