@@ -83,7 +83,8 @@
       line-height: 1.5;
       text-align: center;
       text-decoration: none;
-      color: mix(#fff, $gray, 25%);
+      // color: mix(#fff, $gray, 25%);
+      color: #3d3c3c;
       border: 1px solid $light-gray;
       border-radius: 0;
 
@@ -97,7 +98,8 @@
       }
 
       &.disabled {
-        color: mix(#fff, $gray, 75%);
+        // color: mix(#fff, $gray, 75%);
+        color: #3d3c3c;
         pointer-events: none;
         cursor: not-allowed;
       }
@@ -400,8 +402,7 @@
   a {
     display: block;
     padding: 0.5rem 1rem;
-    // color: $gray;
-    color: #3d3c3c;
+    color: $gray;
     font-size: $type-size-7;
     font-weight: bold;
     line-height: 1.5;
