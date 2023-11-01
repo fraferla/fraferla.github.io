@@ -83,8 +83,7 @@
       line-height: 1.5;
       text-align: center;
       text-decoration: none;
-      // color: mix(#fff, $gray, 25%);
-      color: #3d3c3c;
+      color: mix(#fff, $gray, 25%);
       border: 1px solid $light-gray;
       border-radius: 0;
 
@@ -132,7 +131,8 @@
     font-weight: bold;
     text-align: center;
     text-decoration: none;
-    color: mix(#fff, $gray, 50%);
+    // color: mix(#fff, $gray, 50%);
+    color: #3d3c3c; 
     border: 1px solid $light-gray;
     border-radius: $border-radius;
 
