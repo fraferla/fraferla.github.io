@@ -131,14 +131,12 @@
     font-weight: bold;
     text-align: center;
     text-decoration: none;
-    // color: mix(#fff, $gray, 50%);
-    color: #3d3c3c;
+    color: mix(#fff, $gray, 50%);
     border: 1px solid $light-gray;
     border-radius: $border-radius;
 
     &:hover {
-      // color: $link-color-hover;
-      color: #3d3c3c;
+      color: $link-color-hover;
     }
 
     &:first-child {
@@ -185,7 +183,8 @@
     display: block;
     margin: 0 1rem;
     padding: 0.5rem 0;
-    color: $masthead-link-color;
+    // color: $masthead-link-color;
+    color: #3d3c3c;
     text-decoration: none;
 
     &:hover {
