@@ -3,10 +3,11 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
-redirect_from:
-  - /resume
+redirect_from: 
+  - /research/
+  - /research.html
 ---
 
-{% include base_path %}
+## WORK IN PROGRESS
 
-You can download my CV [here](http://fraferla.github.io/files/CV_Ferlaino.pdf)
+dlkandlasmdlkmaslkdmalskmda
