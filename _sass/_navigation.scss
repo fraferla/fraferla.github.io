@@ -131,8 +131,7 @@
     font-weight: bold;
     text-align: center;
     text-decoration: none;
-    // color: mix(#fff, $gray, 50%);
-    color: #3d3c3c; 
+    color: mix(#fff, $gray, 50%);
     border: 1px solid $light-gray;
     border-radius: $border-radius;
 
@@ -374,7 +373,8 @@
 
 .toc {
   font-family: $sans-serif-narrow;
-  color: $gray;
+  // color: $gray;
+  color: #3d3c3c;
   text-transform: uppercase;
   letter-spacing: 1px;
   background-color: #fff;
