@@ -13,6 +13,6 @@ This study examines the redistribution effects of a conventional monetary policy
 
 <hr style="border:1px solid gray">
 
-### "Effects of different financial frictions on households" (draft coming soon)
+### "Effects of different financial frictions on households" ([working paper](http://fraferla.github.io/files/Ferlaino(2023)B.pdf))
 
 This paper aims to study how financial frictions of different typologies affect households' wealth and consumption after a contractionary monetary policy shock, and whether these differences are significant. The two types of frictions considered for this purpose are frictions on production firms and frictions on households' borrowing ability, both of which are embedded in a HANK model. The results suggest that the friction in the productive sector affects wealth inequality to a greater extent, while the friction on household loans induces a higher dispersion of consumption compared to the counterfactual scenario. The two dynamics appear to be related. In the model with frictions on household borrowing, households are discouraged from moving to the bottom of the distribution, reducing loans and therefore consumption capacity. On the other hand, when an active friction is present on the production side of the economy, more households are pushed to the bottom. This fluctuation relatively increases the Gini index of wealth, but simultaneously allows greater economy-wide consumption smoothing, resulting in less consumption inequality when compared to the previous case.
