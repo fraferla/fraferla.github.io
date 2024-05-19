@@ -12,7 +12,7 @@ redirect_from:
 
 ### Hi everyone!
 
-I am a PhD candidate in economics at Unviersity of Milan - Bicocca and postdoctoral researcher at Sapienza - University of Rome
+I am a PhD candidate in economics at Unviersity of Milan - Bicocca and a postdoctoral researcher at Sapienza - University of Rome
 
 My research interests include **macroeconomics**, **monetary policies**, **heterogeneous agents models**, **financial frictions** and **inequalities**. 
 
