@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Francesco Ferlaino"
   avatar           : "profile.png"
-  bio              : "PhD candidate in Economics at UNIMIB"
+  bio              : "Postdoctoral Researcher at Sapienza"
   location         : "Milan, Italy"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "f.ferlaino@campus.unimib.it"
+  email            : "francesco.ferlaino@uniroma1.it"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
