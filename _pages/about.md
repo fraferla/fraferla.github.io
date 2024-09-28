@@ -12,14 +12,10 @@ redirect_from:
 
 ### Hi everyone!
 
-I am a PhD candidate in economics at University of Milan - Bicocca and a postdoctoral researcher at Sapienza - University of Rome
+I am a postdoctoral researcher at Sapienza - University of Rome. I earned my PhD in economics at the University of Milano - Bicocca, in 2024. 
 
 My research interests include **macroeconomics**, **monetary policies**, **heterogeneous agents models**, **financial frictions** and **inequalities**. 
 
-My current research focuses on the effects of monetary policy in theoretical models that feature household heterogeneity and financial frictions, under the supervision of Prof. Domenico Delli Gatti. 
-
-
- 
 
 
 
