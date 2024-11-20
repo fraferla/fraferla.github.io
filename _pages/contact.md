@@ -11,7 +11,5 @@ author_profile: true
 
 ## Address  
 
-Department of Economics and Law, Sapienza University Rome 
-Via del Castro Laurenziano n°9 - 00161 Rome  
-
-
+Department of Economics and Law, Sapienza - University of Rome 
+Via del Castro Laurenziano, 9 - 00161 Rome  
