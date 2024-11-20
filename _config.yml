@@ -22,9 +22,9 @@ repository               : "fraferla/fraferla.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "PostDoc in Economics"
+  name             : "Francesco Ferlaino"
   pronouns         : # example: "she/her"  
-  # bio              : "PostDoc in Economics"
+  bio              : "PostDoc in Economics"
   location         : "Rome, Italy"
   employer         : "Sapienza - University of Rome"
   uri              : # URL
