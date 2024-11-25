@@ -7,7 +7,7 @@ author_profile: true
 
 ## Email 
 
-[francesco.ferlaino@uniroma1.it](mailto:francesco.ferlaino@uniroma1.it)
+francesco.ferlaino[at]uniroma1[dot]it
 
 ## Address  
 
