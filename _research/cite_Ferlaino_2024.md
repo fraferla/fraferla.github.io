@@ -1,0 +1,18 @@
+---
+permalink: /
+title: "Ferlaino (2024)"
+author_profile: true
+redirect_from: 
+  - /research/cite_Ferlaino_2024/
+  - /research/cite_Ferlaino_2024.html
+---
+
+
+@article{Ferlaino2024,
+  author = {Ferlaino, Francesco},
+  title = {Does the financial accelerator accelerate inequalities?},
+  year   = {2024},
+  Journal = {CefES - University of Milan Bicocca DEMS Working Paper},
+  number = {538}
+  abstract = {This study examines the redistribution effects of a conventional monetary policy shock among households in the presence of production-side financial frictions. A Heterogeneous Agents New Keynesian model featuring a financial accelerator is built after empirical evidence for consumption inequality. The results show that the presence of financial frictions significantly increases the magnitude of the Gini coefficient of wealth and other wealth inequality measures after contractionary monetary policy, compared to a scenario in which such frictions are inactive,  proving that firms’ financial characteristics affect household wealth inequality. Consumption dynamics are also affected: financial frictions have a significant impact on how households consume and save after a monetary contraction, because they rely differently on labor income to smooth consumption. The relative increase in consumption inequality confirms the empirical results obtained in this study.},
+}
