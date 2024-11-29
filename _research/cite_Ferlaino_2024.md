@@ -2,9 +2,9 @@
 permalink: /
 title: "Ferlaino (2024)"
 author_profile: true
-redirect_from: 
-  - /research/cite_Ferlaino_2024/
-  - /research/cite_Ferlaino_2024.html
+# redirect_from: 
+#   - /research/cite_Ferlaino_2024/
+#   - /research/cite_Ferlaino_2024.html
 ---
 
 
