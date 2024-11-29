@@ -15,7 +15,7 @@ This study examines the redistribution effects of a conventional monetary policy
 
 <hr style="border:1px solid gray">
 
-### "Effects of different financial frictions on households" (working paper
+### "Effects of different financial frictions on households" (working paper)
 
 [Download](http://fraferla.github.io/files/Ferlaino_2024_Effects_of_different_financial_frictions_on_households.pdf)
 
