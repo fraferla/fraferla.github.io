@@ -9,7 +9,7 @@ author_profile: true
 
 ### "Does the Financial Accelerator accelerate inequalities?" (CefES-DEMS Working Paper No. 538) 
 
-[Download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4845237) [Cite](cite_Ferlaino_2024)
+[Download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4845237) [Cite](research/cite_Ferlaino_2024)
 
 This study examines the redistribution effects of a conventional monetary policy shock among households in the presence of production-side financial frictions. A Heterogeneous Agents New Keynesian model featuring a financial accelerator is built after empirical evidence for consumption inequality. The results show that the presence of financial frictions significantly increases the magnitude of the Gini coefficient of wealth and other wealth inequality measures after contractionary monetary policy, compared to a scenario in which such frictions are inactive,  proving that firms’ financial characteristics affect household wealth inequality. Consumption dynamics are also affected: financial frictions have a significant impact on how households consume and save after a monetary contraction, because they rely differently on labor income to smooth consumption. The relative increase in consumption inequality confirms the empirical results obtained in this study.
 
