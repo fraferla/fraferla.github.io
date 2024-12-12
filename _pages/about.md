@@ -1,6 +1,5 @@
 ---
 permalink: /
-# title: "Hi everyone!"
 title: "Hi everyone!"
 author_profile: true
 redirect_from: 
