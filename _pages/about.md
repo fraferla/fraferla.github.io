@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "Hi everyone!"
+# title: "Hi everyone!"
+title: "Francesco Ferlaino"
 author_profile: true
 redirect_from: 
   - /about/
