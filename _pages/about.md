@@ -1,5 +1,6 @@
 ---
-permalink: /
+# permalink: /
+permalink: /about/
 # title: "Hi everyone!"
 title: "Hi everyone!"
 author_profile: true
