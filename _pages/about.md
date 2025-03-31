@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-I am a Postdoctoral Researcher at Sapienza - University of Rome. 
+I am currently a Postdoctoral Researcher at Sapienza - University of Rome. 
 
 I earned my PhD in Economics at University of Milano - Bicocca in 2024. During my PhD years, I was also a visiting scholar at the Barcelona School of Economics. 
 
