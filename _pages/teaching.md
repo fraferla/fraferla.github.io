@@ -2,8 +2,10 @@
 permalink: /
 title: "Teaching"
 author_profile: true
-redirect_from: 
-  - /teaching/
+# redirect_from: 
+#   - /teaching/
+permalink: /teaching/
+
 ---
 
 
