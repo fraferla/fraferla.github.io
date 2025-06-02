@@ -9,8 +9,8 @@ author_profile: true
 
 ### "Does the Financial Accelerator accelerate inequalities?"
 
-[[**CefES-DEMS WPS**]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4845237) 
-[[**New Draft**]](http://fraferla.github.io/files/Ferlaino_2025_Does_the_financial_accelerator_accelerate_inequalities.pdf)
+[[**CefES-DEMS WPS (2024)**]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4845237) 
+[[**New Draft (2025)**]](http://fraferla.github.io/files/Ferlaino_2025_Does_the_financial_accelerator_accelerate_inequalities.pdf)
 [[**Cite**]](http://fraferla.github.io/files/cite/Ferlaino_2024.txt)
 
 
@@ -20,7 +20,7 @@ This study investigates the redistribution effects of a contractionary conventio
 
 ### "Effects of different financial frictions on households"
 
-[[**Sapienza WPS**]](https://ideas.repec.org/p/sap/wpaper/wp263.html) 
+[[**Sapienza WPS (2025)**]](https://ideas.repec.org/p/sap/wpaper/wp263.html) 
 [[**Cite**]](http://fraferla.github.io/files/cite/Ferlaino_2025b.txt)
 
 This study examines how different types of financial frictions influence household wealth and consumption inequality in response to a contractionary monetary policy shock. The analysis considers two key frictions: those affecting production firms and those related to household borrowing, both incorporated into a HANK model. The results suggest that frictions in the productive sector have a stronger impact on wealth inequality, whereas frictions in household borrowing lead to greater consumption dispersion relative to the counterfactual scenario. This divergence primarily arises from dynamics around the zero-wealth threshold, particularly the behavior of the household borrowing spread.
