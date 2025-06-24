@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## WORK IN PROGRESS
+## WORKIN PAPER
 
 ### "Does the Financial Accelerator accelerate inequalities?"
 
@@ -24,3 +24,15 @@ This study investigates the redistribution effects of a contractionary conventio
 [[**Cite**]](http://fraferla.github.io/files/cite/Ferlaino_2025b.txt)
 
 This study examines how different types of financial frictions influence household wealth and consumption inequality in response to a contractionary monetary policy shock. The analysis considers two key frictions: those affecting production firms and those related to household borrowing, both incorporated into a HANK model. The results suggest that frictions in the productive sector have a stronger impact on wealth inequality, whereas frictions in household borrowing lead to greater consumption dispersion relative to the counterfactual scenario. This divergence primarily arises from dynamics around the zero-wealth threshold, particularly the behavior of the household borrowing spread.
+
+
+
+
+
+## WORK IN PROGRESS
+
+### "A Behavioral Attention Channel in Inflation Expectations?" 
+
+# with Giovanni Di Bartolomeo, Carolina Serpieri 
+
+Draft coming soon!
