@@ -16,6 +16,8 @@ author_profile: true
 
 This study investigates the redistribution effects of a contractionary conventional monetary policy shock on households within a HANK framework that incorporates financial frictions in the production sector of the economy. The findings reveal that the financial accelerator also acts as an “inequality accelerator,” indicating that the financial structure of productive firms plays an important role in shaping the distribution of wealth and consumption among households. Additionally, I show that financial frictions amplify wealth changes not only withinhouseholds but also across household types, namely workers and rentiers.
 
+<small>**Presented at:** Unimib PhD macro presentations (Milan, 2023), Unibs economics seminar (Brescia, 2023), International EPOC Doctoral Workshop (Venice, 2024), Unicatt Macro Lunch Seminar (Milan, 2024), XXV Conference on International Economics (Alicante, 2024), CEPET Workshop (Udine, 2024), EPOC International Conference (Milan, 2024), Sapienza Macro Workshop (Rome, 2024)<small>
+
 <hr style="border:1px solid gray">
 
 ### "Effects of different financial frictions on households"
