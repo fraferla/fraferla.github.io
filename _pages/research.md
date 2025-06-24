@@ -33,6 +33,6 @@ This study examines how different types of financial frictions influence househo
 
 ### "A Behavioral Attention Channel in Inflation Expectations?" 
 
-# with Giovanni Di Bartolomeo, Carolina Serpieri 
+#### with Giovanni Di Bartolomeo, Carolina Serpieri 
 
 Draft coming soon!
