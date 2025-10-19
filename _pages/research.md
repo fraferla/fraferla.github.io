@@ -18,11 +18,18 @@ This study investigates the redistribution effects of a contractionary conventio
 
 <small>**Presented at:** Unimib PhD macro presentations (Milan, 2023), Unibs economics seminar (Brescia, 2023), International EPOC Doctoral Workshop (Venice, 2024), Unicatt Macro Lunch Seminar (Milan, 2024), XXV Conference on International Economics (Alicante, 2024), CEPET Workshop (Udine, 2024), EPOC International Conference (Milan, 2024), Sapienza Macro Workshop (Rome, 2024), 5th Sailing the Macro Workshop (Ortigia, 2025)<small>
 
+
+
 <hr style="border:1px solid gray">
 
-### "Effects of different financial frictions on households"
+
+
+### "Uneven Frictions, Uneven Households: Monetary Tightening and Inequality"
+
+(Formerly titled *"Effects of different financial frictions on households"*) 
 
 [[**Sapienza WPS (2025)**]](https://ideas.repec.org/p/sap/wpaper/wp263.html) 
+[[**New Draft (2025)**]](http://fraferla.github.io/files/Ferlaino_2025_Uneven Frictions_Uneven Households.pdf)
 [[**Cite**]](http://fraferla.github.io/files/cite/Ferlaino_2025b.txt)
 
 This study examines how different types of financial frictions influence household wealth and consumption inequality in response to a contractionary monetary policy shock. The analysis considers two key frictions: those affecting production firms and those related to household borrowing, both incorporated into a HANK model. The results suggest that frictions in the productive sector have a stronger impact on wealth inequality, whereas frictions in household borrowing lead to greater consumption dispersion relative to the counterfactual scenario. This divergence primarily arises from dynamics around the zero-wealth threshold, particularly the behavior of the household borrowing spread.
@@ -40,8 +47,10 @@ This study examines how different types of financial frictions influence househo
 
 ### "A Behavioral Attention Channel in Inflation Expectations" 
 
-<small>**Presented at:** Unicatt Macro Lunch Seminar (Milan, 2025 - TBH)<small>
-
 #### with Giovanni Di Bartolomeo and Carolina Serpieri 
+
+<small>**Presented at:** Unicatt Macro Lunch Seminar (Milan, 2025 - TBH), ASSET annual meeting<sup>*</sup> (Rabat, 2025 - TBH), IV WINTER Workshop (Granada, 2025 - TBH), Unimib Relunch Seminar, (Milan, 2025 - TBH) <small>
+
+<small>(*Presented by co-author)<small>
 
 Draft coming soon!
