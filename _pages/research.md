@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## WORKIN PAPER
+## WORKING PAPER
 
 ### "Does the Financial Accelerator accelerate inequalities?"
 
