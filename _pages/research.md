@@ -24,12 +24,12 @@ This study investigates the redistribution effects of a contractionary conventio
 
 
 
-### "Uneven Frictions, Uneven Households: Monetary Tightening and Inequality"
+### "Uneven Frictions, Uneven Households: The Inequality Trade-off of Monetary Policy"
 
 (Formerly titled *"Effects of different financial frictions on households"*) 
 
 [[**Sapienza WPS (2025)**]](https://ideas.repec.org/p/sap/wpaper/wp263.html) 
-[[**New Draft (2025)**]](http://fraferla.github.io/files/Ferlaino_2025_Uneven Frictions_Uneven Households.pdf)
+[[**New Draft (2025)**]](http://fraferla.github.io/files/Ferlaino_2025_Uneven Frictions_Uneven_Households.pdf)
 [[**Cite**]](http://fraferla.github.io/files/cite/Ferlaino_2025b.txt)
 
 This study examines how different types of financial frictions influence household wealth and consumption inequality in response to a contractionary monetary policy shock. The analysis considers two key frictions: those affecting production firms and those related to household borrowing, both incorporated into a HANK model. The results suggest that frictions in the productive sector have a stronger impact on wealth inequality, whereas frictions in household borrowing lead to greater consumption dispersion relative to the counterfactual scenario. This divergence primarily arises from dynamics around the zero-wealth threshold, particularly the behavior of the household borrowing spread.
