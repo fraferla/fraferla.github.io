@@ -29,10 +29,10 @@ This study investigates the redistribution effects of a contractionary conventio
 (Formerly titled *"Effects of different financial frictions on households"*) 
 
 [[**Sapienza WPS (2025)**]](https://ideas.repec.org/p/sap/wpaper/wp263.html) 
-[[**New Draft (2025)**]](http://fraferla.github.io/files/Ferlaino_2025_Uneven Frictions_Uneven_Households.pdf)
+[[**New Draft (2026)**]](http://fraferla.github.io/files/Ferlaino_2026_Uneven_Frictions_Uneven_Households.pdf)
 [[**Cite**]](http://fraferla.github.io/files/cite/Ferlaino_2025b.txt)
 
-This study examines how different types of financial frictions influence household wealth and consumption inequality in response to a contractionary monetary policy shock. The analysis considers two key frictions: those affecting production firms and those related to household borrowing, both incorporated into a HANK model. The results suggest that frictions in the productive sector have a stronger impact on wealth inequality, whereas frictions in household borrowing lead to greater consumption dispersion relative to the counterfactual scenario. This divergence primarily arises from dynamics around the zero-wealth threshold, particularly the behavior of the household borrowing spread.
+Does the location of financial frictions significantly change the distributional consequences of monetary policy? Using a HANK model, I compare transmission under firm-side and household-side financial accelerators. I document a state-dependent trade-off: while firm-side frictions amplify wealth inequality by depressing labor income, household-side frictions generate a significantly larger spike in consumption inequality. This divergence is driven by the behavior of the household borrowing spread and its impact on agents near the zero-wealth threshold. Under firm frictions, households use credit to smooth indirect income shocks; under household frictions, rising spreads directly choke off liquidity, trapping a larger share of agents in hand-to-mouth status. These findings highlight that the ``inequality cost" of monetary policy depends critically on the specific origin of credit market stress
 
 <small>**Presented at:** II Milan PhD Economics Workshop (Milan, 2024), Sapienza Macro Workshop (Rome, 2025)<small>
 
