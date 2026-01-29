@@ -39,3 +39,20 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+
+
+/* Dark Mode Variables */
+[data-theme="dark"] {
+  --global-bg-color: #121212;
+  --global-base-color: #e0e0e0;
+  --global-text-color: #e0e0e0;
+  --global-link-color: #bb86fc;
+  --global-border-color: #333;
+  --global-code-background-color: #1e1e1e;
+}
+
+/* Optional: Transition for smooth switching */
+body {
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
