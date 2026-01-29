@@ -3,26 +3,23 @@
 {% include analytics.html %}
 
 <script>
-  const toggleBtn = document.getElementById('theme-toggle');
-  const themeIcon = document.getElementById('theme-icon');
-  const currentTheme = localStorage.getItem('theme');
+  document.addEventListener('DOMContentLoaded', function() {
+    const toggleBtn = document.getElementById('theme-toggle');
+    const themeIcon = document.getElementById('theme-icon');
+    
+    if (toggleBtn && themeIcon) {
+      // Sync icon with the current theme
+      const currentTheme = document.documentElement.getAttribute('data-theme');
+      themeIcon.textContent = currentTheme === 'dark' ? '☀️' : '🌙';
 
-  // Load saved theme
-  if (currentTheme) {
-    document.documentElement.setAttribute('data-theme', currentTheme);
-    themeIcon.textContent = currentTheme === 'dark' ? '☀️' : '🌙';
-  }
-
-  toggleBtn.addEventListener('click', () => {
-    let theme = document.documentElement.getAttribute('data-theme');
-    if (theme === 'dark') {
-      document.documentElement.setAttribute('data-theme', 'light');
-      localStorage.setItem('theme', 'light');
-      themeIcon.textContent = '🌙';
-    } else {
-      document.documentElement.setAttribute('data-theme', 'dark');
-      localStorage.setItem('theme', 'dark');
-      themeIcon.textContent = '☀️';
+      toggleBtn.addEventListener('click', function() {
+        const theme = document.documentElement.getAttribute('data-theme');
+        const newTheme = theme === 'dark' ? 'light' : 'dark';
+        
+        document.documentElement.setAttribute('data-theme', newTheme);
+        localStorage.setItem('theme', newTheme);
+        themeIcon.textContent = newTheme === 'dark' ? '☀️' : '🌙';
+      });
     }
   });
 </script>
