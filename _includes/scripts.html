@@ -1,25 +1,3 @@
 <script src="{{ base_path }}/assets/js/main.min.js"></script>
 
 {% include analytics.html %}
-
-<script>
-  document.addEventListener('DOMContentLoaded', function() {
-    const toggleBtn = document.getElementById('theme-toggle');
-    const themeIcon = document.getElementById('theme-icon');
-    
-    if (toggleBtn && themeIcon) {
-      // Sync icon with the current theme
-      const currentTheme = document.documentElement.getAttribute('data-theme');
-      themeIcon.textContent = currentTheme === 'dark' ? '☀️' : '🌙';
-
-      toggleBtn.addEventListener('click', function() {
-        const theme = document.documentElement.getAttribute('data-theme');
-        const newTheme = theme === 'dark' ? 'light' : 'dark';
-        
-        document.documentElement.setAttribute('data-theme', newTheme);
-        localStorage.setItem('theme', newTheme);
-        themeIcon.textContent = newTheme === 'dark' ? '☀️' : '🌙';
-      });
-    }
-  });
-</script>
