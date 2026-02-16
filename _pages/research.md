@@ -10,7 +10,7 @@ author_profile: true
 ### "Does the Financial Accelerator accelerate inequalities?"
 
 [[**CefES-DEMS WPS (2024)**]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4845237) 
-[[**New Draft (2025)**]](http://fraferla.github.io/files/Ferlaino_2025_Does_the_financial_accelerator_accelerate_inequalities.pdf)
+[[**New Draft (2026)**]](http://fraferla.github.io/files/Ferlaino_2026_Does_the_financial_accelerator_accelerate_inequalities.pdf)
 [[**Cite**]](http://fraferla.github.io/files/cite/Ferlaino_2024.txt)
 
 
