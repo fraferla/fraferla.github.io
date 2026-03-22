@@ -45,7 +45,7 @@ Does the location of financial frictions significantly change the distributional
 
 ## WORK IN PROGRESS
 
-### "A Behavioral Attention Channel in Inflation Expectations" 
+### "Shaping Inflation Inattention through Inequality" 
 
 #### with Giovanni Di Bartolomeo and Carolina Serpieri 
 
