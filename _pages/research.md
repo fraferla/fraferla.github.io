@@ -54,3 +54,11 @@ Does the location of financial frictions significantly change the distributional
 <small>(*Presented by co-author)<small>
 
 Draft coming soon!
+
+
+
+<hr style="border:1px solid gray">
+
+
+
+### "Shaping Inflation Inattention through Inequality" 
