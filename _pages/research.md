@@ -61,4 +61,4 @@ Draft coming soon!
 
 
 
-### "The Dampened Automation Buffer, Monetary Policy and Household Heterogeneity" 
+### "The Dampened Automation Buffer: Monetary Policy and Household Heterogeneity" 
