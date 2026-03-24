@@ -61,4 +61,4 @@ Draft coming soon!
 
 
 
-### "Shaping Inflation Inattention through Inequality" 
+### "The Dampened Automation Buffer, Monetary Policy and Household Heterogeneity" 
