@@ -37,13 +37,9 @@ Does the location of financial frictions significantly change the distributional
 <small>**Presented at:** II Milan PhD Economics Workshop (Milan, 2024), Sapienza Macro Workshop (Rome, 2025)<small>
 
 
-
-<hr style="border:4px solid gray">
-
+<hr style="border:1px solid gray">
 
 
-
-## WORK IN PROGRESS
 
 ### "Shaping Inflation Inattention through Inequality" 
 
@@ -55,14 +51,17 @@ This paper investigates how inequality shapes inflation attention. We document t
 
 <small>**Presented at:** Unicatt Macro Lunch Seminar (Milan, 2025), ASSET annual meeting<sup>*</sup> (Rabat, 2025), IV WINTER Workshop (Granada, 2025), Unimib Relunch Seminar (Milan, 2025), 33rd Symposium SNDE<sup>*</sup> (Lisbon, 2026) <small>
 
-
-
 Draft coming soon!
 
 
 
-<hr style="border:1px solid gray">
 
+<hr style="border:4px solid gray">
+
+
+
+
+## WORK IN PROGRESS
 
 
 ### "The Dampened Automation Buffer: Monetary Policy and Household Heterogeneity" 
