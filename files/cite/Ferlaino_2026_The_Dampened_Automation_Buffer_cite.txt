@@ -2,7 +2,7 @@
   author={Francesco Ferlaino},
   title={{The Dampened Automation Buffer: Monetary Policy and Household Heterogeneity}},
   year=2026,
-  month=April,
+  month=March,
   institution={},
   type={Working Paper},
   url={},
