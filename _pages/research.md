@@ -60,7 +60,7 @@ This paper investigates how inequality shapes inflation attention. We document t
 
 ### "The Dampened Automation Buffer: Monetary Policy and Household Heterogeneity" 
 
-[[**Draft **]](http://fraferla.github.io/files/Ferlaino_2026_The_Dampened_Automation_Buffer.pdf)
+[[**Draft**]](http://fraferla.github.io/files/Ferlaino_2026_The_Dampened_Automation_Buffer.pdf)
 [[**Cite**]](http://fraferla.github.io/files/cite/Ferlaino_2026_The_Dampened_Automation_Buffer_cite.txt)
 
 This paper embeds endogenous automation into a Two-Agent New Keynesian (TANK) model to analyze how restricted financial participation alters monetary transmission. In representative-agent frameworks, contractionary shocks induce an aggressive "de-automation buffer" as firms substitute machines for workers, generating a medium-term employment boom. I show this anomaly is an artifact of the representative-agent assumption. Breaking the feedback loop between corporate profits and worker income causes firms to de-automate significantly less. Consequently, standard models overstate labor substitution during a monetary tightening, artificially exaggerating both the initial employment collapse and its subsequent rebound.		
