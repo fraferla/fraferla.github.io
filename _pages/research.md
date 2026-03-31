@@ -49,7 +49,7 @@ Does the location of financial frictions significantly change the distributional
 
 #### with Giovanni Di Bartolomeo and Carolina Serpieri 
 
-<small>**Presented at:** Unicatt Macro Lunch Seminar (Milan, 2025), ASSET annual meeting<sup>*</sup> (Rabat, 2025), IV WINTER Workshop (Granada, 2025), Unimib Relunch Seminar, (Milan, 2025) <small>
+<small>**Presented at:** Unicatt Macro Lunch Seminar (Milan, 2025), ASSET annual meeting<sup>*</sup> (Rabat, 2025), IV WINTER Workshop (Granada, 2025), Unimib Relunch Seminar (Milan, 2025), 33rd Symposium SNDE <sup>*</sup> (Lisbon, 2026) <small>
 
 <small>(*Presented by co-author)<small>
 
