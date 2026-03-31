@@ -45,13 +45,16 @@ Does the location of financial frictions significantly change the distributional
 
 #### with Giovanni Di Bartolomeo and Carolina Serpieri 
 
-<small>(*Presented by co-author)<small>
+Draft coming soon!
 
 This paper investigates how inequality shapes inflation attention. We document that, for the U.S. economy, rising consumption inequality is associated with a significant decline in household inflation inattention.  Motivated by this finding, we develop a Two-Agent New Keynesian (TANK) model with noisy information, where Ricardian households endogenously adjust their attention to inflation based on observable consumption disparities with Hand-to-Mouth (HtM) households. Theoretically, we show that this behavioral feedback acts as an informational nudge: in response to inflationary cost-push shocks, widening inequality triggers higher attention, leading to improved inflation stabilization but a more pronounced contraction in economic activity. Furthermore, we examine optimal monetary policy and find that while this mechanism enhances the central bank's ability to stabilize inflation, it exacerbates welfare losses, particularly in economies characterized by an inefficient steady state.
 
 <small>**Presented at:** Unicatt Macro Lunch Seminar (Milan, 2025), ASSET annual meeting<sup>*</sup> (Rabat, 2025), IV WINTER Workshop (Granada, 2025), Unimib Relunch Seminar (Milan, 2025), 33rd Symposium SNDE<sup>*</sup> (Lisbon, 2026) <small>
 
-Draft coming soon!
+
+<small>(*Presented by co-author)<small>
+
+
 
 
 
