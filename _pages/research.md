@@ -57,8 +57,6 @@ This paper investigates how inequality shapes inflation attention. We document t
 
 
 
-
-
 <hr style="border:4px solid gray">
 
 
