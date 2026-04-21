@@ -41,13 +41,14 @@ Does the location of financial frictions significantly change the distributional
 
 
 
-### "Shaping Inflation Inattention through Inequality" 
+### "Inflation Inattention and the Consumption Gap" 
 
 #### with Giovanni Di Bartolomeo and Carolina Serpieri 
 
-Draft coming soon!
+[[**Sapienza WPS (2026)**]](https://ideas.repec.org/p/sap/wpaper/wp280.html) 
+[[**Cite**]](http://fraferla.github.io/files/cite/Di Bartolomeo_et_al_2026_Inflation_Inattention_and_the_Consumption_Gap_cite.txt)
 
-This paper investigates how inequality shapes inflation attention. We document that, for the U.S. economy, rising consumption inequality is associated with a significant decline in household inflation inattention.  Motivated by this finding, we develop a Two-Agent New Keynesian (TANK) model with noisy information, where Ricardian households endogenously adjust their attention to inflation based on observable consumption disparities with Hand-to-Mouth (HtM) households. Theoretically, we show that this behavioral feedback acts as an informational nudge: in response to inflationary cost-push shocks, widening inequality triggers higher attention, leading to improved inflation stabilization but a more pronounced contraction in economic activity. Furthermore, we examine optimal monetary policy and find that while this mechanism enhances the central bank's ability to stabilize inflation, it exacerbates welfare losses, particularly in economies characterized by an inefficient steady state.
+This paper studies why inflation inattention varies across households and over time, and how such variation shapes monetary transmission. We propose a behavioral mechanism, grounded in reference dependence and relative consumption, through which inflation inattention depends on the consumption gap between asset holders and non-asset holders. Consistent with this intuition, U.S. data suggest a negative reduced-form relationship between the consumption gap and inflation inattention. Motivated by this pattern, we develop a Two-Agent New Keynesian model with imperfect information in which asset holders endogenously reduce inattention when the consumption gap widens. The mechanism improves the accuracy of inflation expectations and inflation stabilization after cost-push shocks, but at the cost of a deeper contraction in real activity and lower welfare in inefficient steady states.
 
 <small>**Presented at:** Unicatt Macro Lunch Seminar (Milan, 2025), ASSET annual meeting<sup>*</sup> (Rabat, 2025), IV WINTER Workshop (Granada, 2025), Unimib Relunch Seminar (Milan, 2025), 33rd Symposium SNDE<sup>*</sup> (Lisbon, 2026) <small>
 
