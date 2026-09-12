@@ -2,8 +2,7 @@
 layout: about
 title: About me
 permalink: /
-nav: true
-nav_order: 1
+nav: false
 subtitle: Postdoctoral Researcher in Economics, University of Salerno.
 
 profile:
@@ -23,6 +22,12 @@ announcements:
 latest_posts:
   enabled: false
 ---
+
+<style>
+  .post-header .post-title {
+    font-weight: 700;
+  }
+</style>
 
 I am currently a Postdoctoral Researcher at the University of Salerno.
 
