@@ -57,6 +57,9 @@ nav_order: 2
 
 ## Working papers
 
+
+<!-- ========================================================================================== -->
+
 <h3 class="paper-title">Does the Financial Accelerator Accelerate Inequalities?</h3>
 
 <p class="paper-links">
@@ -76,6 +79,10 @@ nav_order: 2
 </details>
 
 <hr class="paper-divider">
+
+
+<!-- ========================================================================================== -->
+
 
 <h3 class="paper-title">Uneven Frictions, Uneven Households: The Inequality Trade-off of Monetary Policy</h3>
 
@@ -99,6 +106,12 @@ nav_order: 2
 
 <hr class="paper-divider">
 
+
+
+
+<!-- ========================================================================================== -->
+
+
 <h3 class="paper-title">Inflation Inattention and the Consumption Gap</h3>
 
 <p class="paper-note">With Giovanni Di Bartolomeo and Carolina Serpieri.</p>
@@ -121,8 +134,15 @@ nav_order: 2
 
 <hr style="margin: 3rem 0;">
 
+
+
+
+<!-- ========================================================================================== -->
+
+
 ## Work in progress
 
-### Capital-skill complementarity and nominal wage rigidity
 
-With Elton Beqiraj, Giovanni Di Bartolomeo and Carolina Serpieri.
+<h3 class="paper-title">Capital-skill complementarity and nominal wage rigidity</h3>
+
+<p class="paper-note">With Elton Beqiraj, Giovanni Di Bartolomeo and Carolina Serpieri.</p>
