@@ -11,7 +11,7 @@ nav_order: 2
 
 ### Does the Financial Accelerator Accelerate Inequalities?
 
-[**CefES-DEMS WPS (2024)**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4845237) · [**PDF**]({{ '/assets/pdf/Ferlaino_2026_Does_the_financial_accelerator_accelerate_inequalities.pdf' | relative_url }}) · [**Cite**]({{ '/files/cite/Ferlaino_2026_Does_the_financial_accelerator_accelerate_inequalities_cite.txt' | relative_url }})
+[**CefES-DEMS WPS (2024)**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4845237) · [**New Draft**]({{ '/assets/pdf/Ferlaino_2026_Does_the_financial_accelerator_accelerate_inequalities.pdf' | relative_url }}) · [**Cite**]({{ '/files/cite/Ferlaino_2026_Does_the_financial_accelerator_accelerate_inequalities_cite.txt' | relative_url }})
 
 I show that corporate financial frictions affect not only the strength of monetary transmission, but also its distributional incidence. Following monetary tightening, weaker firm balance sheets and tighter external financing conditions amplify losses among households most reliant on current earnings and limited self-insurance. Labor-income exposure, rather than household leverage, is therefore the key distributional margin in this framework: corporate distress reaches households through firms’ demand for labor. This mechanism remains robust with household illiquid assets, which broaden transmission channels without displacing labor income as the dominant force. The financial accelerator raises welfare costs and concentrates additional losses among low-wealth households.
 
@@ -23,7 +23,7 @@ I show that corporate financial frictions affect not only the strength of moneta
 
 Previously titled *Effects of different financial frictions on households*.
 
-[**Sapienza WPS (2025)**](https://ideas.repec.org/p/sap/wpaper/wp263.html) · [**PDF**]({{ '/assets/pdf/Ferlaino_2026_Uneven_Frictions_Uneven_Households.pdf' | relative_url }}) · [**Cite**]({{ '/files/cite/Ferlaino_2025_Effects_of_different_financial_frictions_on_households_cite.txt' | relative_url }})
+[**Sapienza WPS (2025)**](https://ideas.repec.org/p/sap/wpaper/wp263.html) · [**New Draft**]({{ '/assets/pdf/Ferlaino_2026_Uneven_Frictions_Uneven_Households.pdf' | relative_url }}) · [**Cite**]({{ '/files/cite/Ferlaino_2025_Effects_of_different_financial_frictions_on_households_cite.txt' | relative_url }})
 
 Monetary tightening does not have a single distributional effect: the dimension of inequality it amplifies depends on where credit frictions bind. I embed a firm financial accelerator and an endogenous household borrowing spread in a heterogeneous-agent economy and analyze them separately. For comparable output contractions, firm-side frictions generate the larger increase in wealth inequality, whereas household-side frictions produce a much larger rise in consumption inequality. The difference is concentrated around zero liquid wealth. When household borrowing costs stay fixed, income-poor households use debt to smooth the downturn, widening negative-wealth positions. When the borrowing spread rises, fewer households move into debt, but more remain hand-to-mouth and cut consumption persistently. A consumption decomposition shows that the borrowing spread becomes a quantitatively important direct transmission channel, while indirect effects remain substantial.
 

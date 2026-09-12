@@ -3,15 +3,15 @@ layout: about
 title: About me
 permalink: /
 nav: false
-subtitle: Postdoctoral Researcher in Economics, University of Salerno.
+subtitle: Postdoctoral Researcher in Economics
 
 profile:
   align: right
   image: profile.png
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Rome, Italy</p>
-    <p>University of Salerno</p>
+  # more_info: >
+  #   <p>Rome, Italy</p>
+  #   <p>University of Salerno</p>
 
 selected_papers: false
 social: true # includes social icons at the bottom of the page
@@ -28,6 +28,10 @@ latest_posts:
     font-weight: 700;
   }
 </style>
+
+---
+
+Hi Everyone!
 
 I am currently a Postdoctoral Researcher at the University of Salerno.
 

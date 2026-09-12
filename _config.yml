@@ -5,9 +5,9 @@
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Francesco
 middle_name:
-last_name: Ferlaino
-contact_note: >
-  Postdoctoral Researcher in Economics at the University of Salerno.
+last_name: "<strong>Ferlaino</strong>"
+# contact_note: >
+#   Postdoctoral Researcher in Economics at the University of Salerno.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal academic website of Francesco Ferlaino, Postdoctoral Researcher in Economics.
 footer_text: >
