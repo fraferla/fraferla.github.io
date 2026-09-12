@@ -33,14 +33,14 @@ latest_posts:
   }
 
   @media (min-width: 576px) {
-  .profile {
-    width: 24%;
+    .profile {
+      width: 24%;
+    }
   }
-}
 </style>
 
 
-<div style="margin-top: 3rem;">
+<div style="height: 3rem;"></div>
 
 Hi everyone!
 
@@ -49,5 +49,3 @@ I am currently a Postdoctoral Researcher at the University of Salerno.
 Previously, I was a Postdoctoral Researcher at Sapienza - University of Rome. I earned my Ph.D. in Economics from the University of Milano-Bicocca in 2024. During my doctoral studies, I was also a visiting scholar at the Barcelona School of Economics.
 
 My research interests include **macroeconomics**, **monetary policy**, **heterogeneous agents models**, **financial frictions** and **inflation expectations**.
-
-</div>
