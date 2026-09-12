@@ -31,6 +31,12 @@ latest_posts:
   .social .contact-icons {
     font-size: 2rem;
   }
+
+  @media (min-width: 576px) {
+  .profile {
+    width: 24%;
+  }
+}
 </style>
 
 ---
