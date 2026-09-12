@@ -8,7 +8,11 @@
   .post-header .post-title {
     font-weight: 700;
   }
-</style> <hr> <p>Hi Everyone!</p> <p>I am currently a Postdoctoral Researcher at the University of Salerno.</p> <p>Previously, I was a Postdoctoral Researcher at Sapienza - University of Rome. I earned my Ph.D. in Economics from the University of Milano-Bicocca in 2024. During my doctoral studies, I was also a visiting scholar at the Barcelona School of Economics.</p> <p>My research interests include <strong>macroeconomics</strong>, <strong>monetary policy</strong>, <strong>heterogeneous agents models</strong>, <strong>financial frictions</strong> and <strong>inflation expectations</strong>.</p> </div> <div class="social"> <div class="contact-icons"> <a href="/assets/pdf/CV_Ferlaino.pdf" title="Cv pdf"><i class="ai ai-cv"></i></a> <a href="mailto:fferlaino@unisa.it" title="Email"><i class="fa-solid fa-envelope"></i></a> <a href="https://scholar.google.com/citations?user=XblJGPMAAAAJ" title="Scholar userid" rel="external nofollow noopener" target="_blank"><i class="ai ai-google-scholar"></i></a> <a href="https://github.com/fraferla" title="Github username" rel="external nofollow noopener" target="_blank"><i class="fa-brands fa-github"></i></a> <a href="https://bsky.app/profile/fraferla.bsky.social" title="Bluesky url" rel="external nofollow noopener" target="_blank"><i class="fa-brands fa-bluesky"></i></a> <a href="https://www.linkedin.com/in/francesco-ferlaino-663bb887" title="Linkedin username" rel="external nofollow noopener" target="_blank"><i class="fa-brands fa-linkedin"></i></a> <a href="https://twitter.com/FraFerla" title="X username" rel="external nofollow noopener" target="_blank"><i class="fa-brands fa-x-twitter"></i></a> <a href="/feed.xml" title="Rss icon"><i class="fa-solid fa-square-rss"></i></a> </div> <div class="contact-note"></div> </div> </article> </div> </div> <footer class="fixed-bottom" role="contentinfo"> <div class="container mt-0"> © Copyright 2026 Francesco Ferlaino. Powered by <a href="https://jekyllrb.com/" target="_blank" rel="external nofollow noopener">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio" rel="external nofollow noopener" target="_blank">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank" rel="external nofollow noopener">GitHub Pages</a>. </div> </footer> <script>
+
+  .social .contact-icons {
+    font-size: 2rem;
+  }
+</style> <hr> <p>Hi Everyone!</p> <p>I am currently a Postdoctoral Researcher at the University of Salerno.</p> <p>Previously, I was a Postdoctoral Researcher at Sapienza - University of Rome. I earned my Ph.D. in Economics from the University of Milano-Bicocca in 2024. During my doctoral studies, I was also a visiting scholar at the Barcelona School of Economics.</p> <p>My research interests include <strong>macroeconomics</strong>, <strong>monetary policy</strong>, <strong>heterogeneous agents models</strong>, <strong>financial frictions</strong> and <strong>inflation expectations</strong>.</p> </div> <div class="social"> <div class="contact-icons"> <a href="/assets/pdf/CV_Ferlaino.pdf" title="Cv pdf"><i class="ai ai-cv"></i></a> <a href="mailto:fferlaino@unisa.it" title="Email"><i class="fa-solid fa-envelope"></i></a> <a href="https://scholar.google.com/citations?user=XblJGPMAAAAJ" title="Scholar userid" rel="external nofollow noopener" target="_blank"><i class="ai ai-google-scholar"></i></a> <a href="https://www.linkedin.com/in/francesco-ferlaino-663bb887" title="Linkedin username" rel="external nofollow noopener" target="_blank"><i class="fa-brands fa-linkedin"></i></a> <a href="https://twitter.com/FraFerla" title="X username" rel="external nofollow noopener" target="_blank"><i class="fa-brands fa-x-twitter"></i></a> <a href="https://bsky.app/profile/fraferla.bsky.social" title="Bluesky url" rel="external nofollow noopener" target="_blank"><i class="fa-brands fa-bluesky"></i></a> <a href="https://github.com/fraferla" title="Github username" rel="external nofollow noopener" target="_blank"><i class="fa-brands fa-github"></i></a> </div> <div class="contact-note"></div> </div> </article> </div> </div> <footer class="fixed-bottom" role="contentinfo"> <div class="container mt-0"> © Copyright 2026 Francesco Ferlaino. Powered by <a href="https://jekyllrb.com/" target="_blank" rel="external nofollow noopener">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio" rel="external nofollow noopener" target="_blank">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank" rel="external nofollow noopener">GitHub Pages</a>. </div> </footer> <script>
   window.alFolio = {
     compatBootstrap: false
   };
@@ -76,20 +80,6 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=XblJGPMAAAAJ", "_blank");
         },
       },{
-        id: 'social-github',
-        title: 'GitHub',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://github.com/fraferla", "_blank");
-        },
-      },{
-        id: 'social-bluesky',
-        title: 'Bluesky',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://bsky.app/profile/fraferla.bsky.social", "_blank");
-        },
-      },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
@@ -104,11 +94,18 @@ ninja.data = [{
           window.open("https://twitter.com/FraFerla", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
+        id: 'social-bluesky',
+        title: 'Bluesky',
         section: 'Socials',
         handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("https://bsky.app/profile/fraferla.bsky.social", "_blank");
+        },
+      },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/fraferla", "_blank");
         },
       },{
       id: 'light-theme',
