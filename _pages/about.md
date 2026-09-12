@@ -27,6 +27,10 @@ latest_posts:
   .post-header .post-title {
     font-weight: 700;
   }
+
+  .social .contact-icons {
+    font-size: 2rem;
+  }
 </style>
 
 ---

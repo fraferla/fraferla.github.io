@@ -4,10 +4,9 @@
 cv_pdf: /assets/pdf/CV_Ferlaino.pdf
 email: fferlaino@unisa.it
 scholar_userid: XblJGPMAAAAJ
-github_username: fraferla
-bluesky_url: https://bsky.app/profile/fraferla.bsky.social
 linkedin_username: francesco-ferlaino-663bb887
 x_username: FraFerla
-rss_icon: false
+bluesky_url: https://bsky.app/profile/fraferla.bsky.social
+github_username: fraferla
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
