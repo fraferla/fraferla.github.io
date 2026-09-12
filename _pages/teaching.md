@@ -2,14 +2,13 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+description: Teaching experience.
 nav: true
-nav_order: 6
-calendar: true
+nav_order: 3
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+### Sapienza - University of Rome
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+- Political Economy (2025/2026) -- Adjunct Lecturer to Prof. Beqiraj
 
-{% include courses.liquid %}
+- Economics and Monetary Policy (2024/2025 - 2025/2026) -- Adjunct Lecturer to Prof. Patella and Prof. Serpieri

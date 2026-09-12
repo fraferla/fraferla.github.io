@@ -1,0 +1,15 @@
+@TechReport{DiBartolomeo_et_Al_2026,
+type={Working Papers in Public Economics},
+institution={Department of Economics and Law, Sapienza University of Rome},
+author={Giovanni Di Bartolomeo and Francesco Ferlaino and Carolina Serpieri},
+title={Inflation Inattention and the Consumption Gap},
+year={2026},
+month={Apr},
+number={280},
+abstract={This paper studies why inflation inattention varies across households and over time, and how such variation shapes monetary transmission. We propose a behavioral mechanism, grounded in reference dependence and relative consumption, through which inflation inattention depends on the consumption gap between asset holders and non-asset holders. Consistent with this intuition, U.S. data suggest a negative reduced-form relationship between the consumption gap and inflation inattention. Motivated by this pattern, we develop a Two-Agent New Keynesian model with imperfect information in which asset holders endogenously reduce inattention when the consumption gap widens. The mechanism improves the accuracy of inflation expectations and inflation stabilization after cost-push shocks, but at the cost of a deeper contraction in real activity and lower welfare in inefficient steady states.},
+keywords={behavioral macroeconomics; inflation; inattention; expectations; consumption gap; monetary policy.},
+doi={None},
+url={https://ideas.repec.org/p/sap/wpaper/wp280.html},
+}
+
+
