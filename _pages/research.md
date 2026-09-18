@@ -81,6 +81,34 @@ nav_order: 2
 <hr class="paper-divider">
 
 
+
+<!-- ========================================================================================== -->
+
+
+<h3 class="paper-title">Inflation Inattention and the Consumption Gap</h3>
+
+<p class="paper-note">With Giovanni Di Bartolomeo and Carolina Serpieri.</p>
+
+<p class="paper-links">
+  <a href="https://ideas.repec.org/p/sap/wpaper/wp280.html"><strong>Sapienza WPS (2026) ↗</strong></a> · <a href="{{ '/files/cite/Di%20Bartolomeo_et_al_2026_Inflation_Inattention_and_the_Consumption_Gap_cite.txt' | relative_url }}"><strong>Cite ↗</strong></a>
+</p>
+
+<details class="paper-details">
+<summary>Abstract</summary>
+
+<p>This paper studies why inflation inattention varies across households and over time, and how such variation shapes monetary transmission. We propose a behavioral mechanism, grounded in reference dependence and relative consumption, through which inflation inattention depends on the consumption gap between asset holders and non-asset holders. Consistent with this intuition, U.S. data suggest a negative reduced-form relationship between the consumption gap and inflation inattention. Motivated by this pattern, we develop a Two-Agent New Keynesian model with imperfect information in which asset holders endogenously reduce inattention when the consumption gap widens. The mechanism improves the accuracy of inflation expectations and inflation stabilization after cost-push shocks, but at the cost of a deeper contraction in real activity and lower welfare in inefficient steady states.</p>
+</details>
+
+<details class="paper-details paper-presentations">
+<summary>Presented at</summary>
+
+<p>Unicatt Macro Lunch Seminar (Milan, 2025), ASSET annual meeting<sup>*</sup> (Rabat, 2025), IV WINTER Workshop (Granada, 2025), Unimib Relunch Seminar (Milan, 2025), 33rd Symposium SNDE<sup>*</sup> (Lisbon, 2026), 30th ICMAIF (Rethymno, 2026), 57th MMF Annual Conference (Lancaster).<br><sup>*</sup> Presented by co-author.</p>
+</details>
+
+<hr style="margin: 3rem 0;">
+
+
+
 <!-- ========================================================================================== -->
 
 
@@ -109,30 +137,6 @@ nav_order: 2
 
 
 
-<!-- ========================================================================================== -->
-
-
-<h3 class="paper-title">Inflation Inattention and the Consumption Gap</h3>
-
-<p class="paper-note">With Giovanni Di Bartolomeo and Carolina Serpieri.</p>
-
-<p class="paper-links">
-  <a href="https://ideas.repec.org/p/sap/wpaper/wp280.html"><strong>Sapienza WPS (2026) ↗</strong></a> · <a href="{{ '/files/cite/Di%20Bartolomeo_et_al_2026_Inflation_Inattention_and_the_Consumption_Gap_cite.txt' | relative_url }}"><strong>Cite ↗</strong></a>
-</p>
-
-<details class="paper-details">
-<summary>Abstract</summary>
-
-<p>This paper studies why inflation inattention varies across households and over time, and how such variation shapes monetary transmission. We propose a behavioral mechanism, grounded in reference dependence and relative consumption, through which inflation inattention depends on the consumption gap between asset holders and non-asset holders. Consistent with this intuition, U.S. data suggest a negative reduced-form relationship between the consumption gap and inflation inattention. Motivated by this pattern, we develop a Two-Agent New Keynesian model with imperfect information in which asset holders endogenously reduce inattention when the consumption gap widens. The mechanism improves the accuracy of inflation expectations and inflation stabilization after cost-push shocks, but at the cost of a deeper contraction in real activity and lower welfare in inefficient steady states.</p>
-</details>
-
-<details class="paper-details paper-presentations">
-<summary>Presented at</summary>
-
-<p>Unicatt Macro Lunch Seminar (Milan, 2025), ASSET annual meeting<sup>*</sup> (Rabat, 2025), IV WINTER Workshop (Granada, 2025), Unimib Relunch Seminar (Milan, 2025), 33rd Symposium SNDE<sup>*</sup> (Lisbon, 2026), 30th ICMAIF (Rethymno, 2026), 57th MMF Annual Conference (Lancaster).<br><sup>*</sup> Presented by co-author.</p>
-</details>
-
-<hr style="margin: 3rem 0;">
 
 
 
